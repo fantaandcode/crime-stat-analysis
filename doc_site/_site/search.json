@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Doc_site",
+    "title": "German Crime Statistics Analysis",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a site used to host analysis of German crime statistics in relation to immigration using available data as of June 2024.\nAll demography data is taken from the Federal Statistics Office of Germany (Statistisches Bundesamt or Destatis).\nAll crime statistics come from the Federal Criminal Police Office of Germany (Bundeskriminalamt or BKA)."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "The purpose of this analysis is to take a look at demographic trends and how they may relate to crime within Germany. A driver of this is due to the increase in news stories covering immigrant-instigated crime and nature of public discourse around immigration within the European Union.\nI must say that I have an inherent pro-immigration bias and I will try my best to temper those in this analysis.\nI am also by no means a professional; all statistics and conclusions from this analysis should be taken with a grain of salt. This has not been peer reviewed in an academic setting."
+  },
+  {
+    "objectID": "demographics.html",
+    "href": "demographics.html",
+    "title": "Demographics",
+    "section": "",
+    "text": "import pandas as pd\nimport numpy as np"
   }
 ]

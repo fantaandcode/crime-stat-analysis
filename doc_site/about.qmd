@@ -1,5 +1,11 @@
 ---
 title: "About"
+author: "Vermilion"
+date: today
 ---
 
-About this site
+The purpose of this analysis is to take a look at demographic trends and how they may relate to crime within Germany. A driver of this is due to the increase in news stories covering immigrant-instigated crime and nature of public discourse around immigration within the European Union.
+
+I must say that I have an inherent pro-immigration bias and I will try my best to temper those in this analysis.
+
+I am also by no means a professional; all statistics and conclusions from this analysis should be taken with a grain of salt. This has not been peer reviewed in an academic setting.

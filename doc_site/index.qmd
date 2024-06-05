@@ -1,7 +1,11 @@
 ---
-title: "Doc_site"
+title: "German Crime Statistics Analysis"
+author: "Vermilion"
+date: today
 ---
 
-This is a Quarto website.
+This is a site used to host analysis of German crime statistics in relation to immigration using available data as of June 2024.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+All demography data is taken from the [Federal Statistics Office of Germany](https://www.destatis.de/EN/Home/_node.html) (*Statistisches Bundesamt* or *Destatis*).
+
+All crime statistics come from the [Federal Criminal Police Office of Germany](https://www.bka.de/EN/Home/home_node.html) (*Bundeskriminalamt* or *BKA*).

@@ -2,11 +2,15 @@ project:
   type: website
 
 website:
-  title: "Doc_site"
+  title: "GCSA"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: demographics.ipynb
+        text: Demographics
+      - href: crime_stats.ipynb
+        text: Crime Statistics
       - about.qmd
 
 format:

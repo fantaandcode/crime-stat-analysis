@@ -1,0 +1,13 @@
+name: data-analysis
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+    - ipykernel
+    - numpy
+    - pandas
+    - matplotlib
+    - seaborn
+    - plotly
+    - scikit-learn
+    - openpyxl
